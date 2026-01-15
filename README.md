@@ -77,7 +77,7 @@ I enjoy transforming **raw, messy data** into **clean datasets, exploratory note
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=developreiloyo&show_icons=true&theme=dark" />
+  <img src="https://komarev.com/ghpvc/?username=developreiloyo&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="left">
