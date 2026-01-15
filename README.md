@@ -69,24 +69,9 @@ I enjoy transforming **raw, messy data** into **clean datasets, exploratory note
 
 ### 📚 Learning & Certification
 
-- 🐍 **PCAP – Python Certified Associate Programmer** *(in progress)*
+- 🐍 **PCAP-31-03 – Python Certified Associate Programmer** *(in progress)*
 - Continuous learning through hands-on projects and technical writing
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=developreiloyo&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developreiloyo&layout=compact&theme=dark" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developreiloyo&theme=dark" />
-</p>
 
 ---
 
